@@ -1,0 +1,11 @@
+/Users/kseniagustsenko/Desktop/program.alused/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.deps.json
+/Users/kseniagustsenko/Desktop/program.alused/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/program.alused/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/program.alused/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.dll
+/Users/kseniagustsenko/Desktop/program.alused/Calculator/Calculator/bin/Debug/netcoreapp2.1/Calculator.pdb
+/Users/kseniagustsenko/Desktop/program.alused/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.csprojAssemblyReference.cache
+/Users/kseniagustsenko/Desktop/program.alused/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.csproj.CoreCompileInputs.cache
+/Users/kseniagustsenko/Desktop/program.alused/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/program.alused/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/program.alused/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.dll
+/Users/kseniagustsenko/Desktop/program.alused/Calculator/Calculator/obj/Debug/netcoreapp2.1/Calculator.pdb
