@@ -38,45 +38,45 @@ namespace Calculator
                 KMI = userWeight / userHeightS;//KMI ei ole ümardatud
                 kmiR = Math.Round(KMI, 2);// KMI koos round funktsiooniga
 
-                if (kmiR<16) //tervisele ohtlik alakaal
+                if (kmiR < 16) //tervisele ohtlik alakaal
                 {
                     Console.WriteLine($"Thank You! Be careful! Your KMI is {kmiR} ! You are morbidly underweight!");
                 }
 
-                if (kmiR>=16 && kmiR<=18.5) //alakaal
+                else if (kmiR >= 16 && kmiR <= 18.5) //alakaal
                 {
 
                     Console.WriteLine($"Thank You! Ohhh! Your KMI is {kmiR} ! You are underweight!");
                 }
 
-                if (kmiR>=18.6 && kmiR<=25) //normaalkaal
+                else if (kmiR >= 18.6 && kmiR <= 25) //normaalkaal
 
                 {
 
                     Console.WriteLine($"Thank You! Your KMI is {kmiR} ! Great! You are at normal weight!");
                 }
 
-                if (kmiR>=25.1 && kmiR<=30) //ülekaal
+                else if (kmiR >= 25.1 && kmiR <= 30) //ülekaal
 
                 {
 
                     Console.WriteLine($"Thank You! Ohh! Your KMI is {kmiR} ! You are overweight!");
                 }
 
-                if (kmiR>=30.1 && kmiR<=35) //rasvumine
+                else if (kmiR >= 30.1 && kmiR <= 35) //rasvumine
 
                 {
 
                     Console.WriteLine($"Thank You! Ohhh! Your KMI is {kmiR} ! You are severely overweight!");
                 }
 
-                if (kmiR>=35.1 && kmiR<=40) //tugev rasvumine
+                else if (kmiR >= 35.1 && kmiR <= 40) //tugev rasvumine
 
                 {
                     Console.WriteLine($"Thank You! Ohhh! Your KMI is {kmiR} ! You are morbidly overweight!");
                 }
 
-                if (kmiR>40.1) // tervisele ohtlik rasvumine
+                else  // tervisele ohtlik rasvumine
                 {
 
                     Console.WriteLine($"Thank You! Be careful! Your KMI is {kmiR} ! You are morbidly underweight!");
