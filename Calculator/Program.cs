@@ -34,7 +34,7 @@ namespace Calculator
                 userHeight = Convert.ToDouble(Console.ReadLine());
 
                 userHeightR = userHeight / 100; //pikkus jagatud 100, et saada meetridesse
-                userHeightS = userHeightR * userHeightR; //pikkus ruudus
+                userHeightS = Math.Pow(userHeightR,2); //pikkus ruudus
                 KMI = userWeight / userHeightS;//KMI ei ole ümardatud
                 kmiR = Math.Round(KMI, 2);// KMI koos round funktsiooniga
 
